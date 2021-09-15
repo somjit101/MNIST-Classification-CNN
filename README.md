@@ -1,5 +1,5 @@
 # MNIST Classification using CNNS with Keras
-A simple, exploratory study on how to use Convutional Neural Networks (CNNs) with Keras framework (Tensorflow background) for a simple handwritten number image classification task. This project was primarily made with the purpose of learning and getting familiar with CNNs in Keras framework, which efficiently streamlines its implementation with intuitive, simple-to-use functional APIs. This eliminates the need of managing computational graphs in Tensorflow and allows us to easily play with the Neural Network Architecture. 
+A simple, exploratory study on the use of Convolutional Neural Networks (CNNs) with Keras framework (Tensorflow background) for a simple handwritten number image classification task. This project was primarily made with the purpose of learning and getting familiar with CNNs in Keras framework, which efficiently streamlines its implementation with intuitive, simple-to-use functional APIs. This eliminates the need of managing computational graphs in Tensorflow and allows us to easily play with the Neural Network Architecture. 
 
 ## Dataset 
 
